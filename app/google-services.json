@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249730254182",
+    "project_id": "scribe-e4023",
+    "storage_bucket": "scribe-e4023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249730254182:android:c730d5c1bb969021cf34a7",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQGJuloYuPAKaLxnuBd_gN8QfBUh-uzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
